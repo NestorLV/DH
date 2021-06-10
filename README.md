@@ -1,6 +1,6 @@
 # Certified Tech Developer
 
-En este repositorio estaran publicados los proyectos de la materia de Front End 1 - Bimestre 1 - Certified Tech Developer
+En este repositorio estaran publicados los proyectos de la materia de la carrera en la camada 3.
 
 Proyecto 1: Darkmode + Template (Front End 2)
 
